@@ -18,3 +18,14 @@ Is the candidate aware of their strengths and weaknesses, and are they continual
 * Why join our team?
   * Is this the place where you will keep growing? Why?
 
+System Design
+-------------
+
+Does the candidate have experience designing an implementing a useful system?
+
+* Pick a project or system you worked on recently, and walk me through its design.
+  * Candidate should aim for breadth and depth – let them deep-dive where they seem strongest.
+  * What was the problem you were trying to solve?
+  * How do monitor the system?
+  * What are its failure modes?
+  * In retrospect, what would you have designed differently?
